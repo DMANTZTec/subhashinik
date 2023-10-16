@@ -1,0 +1,49 @@
+{
+  "market_data": [
+    {
+      "category": "Vegetables",
+      "products": [
+        {
+          "name": "potato",
+          "price per kg": 80,
+          "calories": "77 calories per 100 grams"
+        },
+        {
+          "name": "Tomatoes",
+          "price per kg": 20,
+          "calories": "18-20 calories per 100 grams"
+        }
+      ]
+    },
+    {
+      "category": "Grains",
+      "products": [
+        {
+          "name": "Rice",
+          "price per kg": 2.00,
+          "calories": "130 calories per 100 grams"
+        },
+        {
+          "name": "Wheat",
+          "price per kg": 1.75,
+          "calories": " 340-350 calories per 100 grams"
+        }
+      ]
+    },
+    {
+      "category": "Fruits",
+      "products": [
+        {
+          "name": "Apples",
+          "price per kg": 100,
+          "calories": "52-54 calories per 100 grams"
+        },
+        {
+          "name": "Bananas",
+          "price": 80,
+          "calories": " 89-92 calories per 100 grams"
+        }
+      ]
+    }
+  ]
+}
